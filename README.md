@@ -6,10 +6,10 @@ The player must defeat a certain amount of enemies to win the game. There are tw
 
 The ideas for this game extended way beyond what was actually implemented. These included being able to dash/roll over fallen tree logs. Learning took most of the time spent working on this project. 
 
+Demo here: https://micahgarrison.com/projects/Recollection/
 Demo Images:
 ![DemoImage1](https://github.com/g-micah/Recollection/blob/master/Artwork/DemoImages/DemoImage1.png)
 ![DemoImage2](https://github.com/g-micah/Recollection/blob/master/Artwork/DemoImages/DemoImage2.png)
 ![DemoImage3](https://github.com/g-micah/Recollection/blob/master/Artwork/DemoImages/DemoImage3.png)
 ![DemoImage4](https://github.com/g-micah/Recollection/blob/master/Artwork/DemoImages/DemoImage4.png)
 
-Demo here: https://micahgarrison.com/projects/Recollection/
