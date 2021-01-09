@@ -2,9 +2,9 @@
 
 A short 2D, top-down, RPG-style game built in the Unity environment using C#. 
 
-The player must defeat a certain amount of enemies to win the game. There are two "caves/dungeons" to be found and the player may also upgrade their sword using silver found along the way.
+The player must defeat a certain amount of enemies to win the game. There are two "caves/dungeons" to be found and the player may also upgrade their sword using silver found along the way. Enemies will run at the player and attack the player within a certain distance.
 
-The ideas for this game extended way beyond what was actually implemented. These included being able to dash/roll over fallen tree logs. Learning took most of the time spent working on this project. 
+The ideas for this game extended way beyond what was actually implemented. Learning C# scripting and the Unity environment took most of the time spent working on this project. 
 
 Demo here: https://micahgarrison.com/projects/Recollection/
 
