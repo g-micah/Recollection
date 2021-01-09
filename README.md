@@ -8,7 +8,8 @@ The ideas for this game extended way beyond what was actually implemented. These
 
 Demo Images:
 ![DemoImage1](https://github.com/g-micah/Recollection/blob/master/Artwork/DemoImages/DemoImage1.png)
-![DemoImage1]()
-![DemoImage1]()
+![DemoImage2](https://github.com/g-micah/Recollection/blob/master/Artwork/DemoImages/DemoImage2.png)
+![DemoImage3](https://github.com/g-micah/Recollection/blob/master/Artwork/DemoImages/DemoImage3.png)
+![DemoImage4](https://github.com/g-micah/Recollection/blob/master/Artwork/DemoImages/DemoImage4.png)
 
 Demo here: https://micahgarrison.com/projects/Recollection/
