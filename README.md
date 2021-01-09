@@ -10,7 +10,8 @@ Demo here: https://micahgarrison.com/projects/Recollection/
 
 Demo Images:
 ![DemoImage1](https://github.com/g-micah/Recollection/blob/master/Artwork/DemoImages/DemoImage1.png)
-![DemoImage2](https://github.com/g-micah/Recollection/blob/master/Artwork/DemoImages/DemoImage2.png)
-![DemoImage3](https://github.com/g-micah/Recollection/blob/master/Artwork/DemoImages/DemoImage3.png)
-![DemoImage4](https://github.com/g-micah/Recollection/blob/master/Artwork/DemoImages/DemoImage4.png)
+![DemoImage2](https://github.com/g-micah/Recollection/blob/master/Artwork/DemoImages/DemoImage4.png)
+![DemoImage3](https://github.com/g-micah/Recollection/blob/master/Artwork/DemoImages/DemoImage2.png)
+![DemoImage4](https://github.com/g-micah/Recollection/blob/master/Artwork/DemoImages/DemoImage3.png)
+
 
